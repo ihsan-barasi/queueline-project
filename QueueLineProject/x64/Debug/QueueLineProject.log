@@ -1,0 +1,26 @@
+﻿  QueueLineProject.cpp
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(61,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(65,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(173,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(270,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(293,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(319,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsString.h(385,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+C:\Users\dell0\source\repos\QueueLineProject\QueueLineProject\clsQueueLine.h(88,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLineProject.cpp')
+  
+  QueueLineProject.vcxproj -> C:\Users\dell0\source\repos\QueueLineProject\x64\Debug\QueueLineProject.exe
